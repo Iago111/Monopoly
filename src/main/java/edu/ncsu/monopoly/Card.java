@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-
+//aldaketa okey
 //Añadimos comentario de nuevo hoy jueves 24 aldaketa 2
 //Eguneraketa irailak 25 bigarrena
 //github.com/Iago111/Monopoly
