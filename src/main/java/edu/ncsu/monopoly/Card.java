@@ -1,5 +1,8 @@
 package edu.ncsu.monopoly;
+
 //Añadimos comentario de nuevo hoy jueves 24 aldaketa 2
+//Eguneraketa irailak 25 bigarrena
+//github.com/Iago111/Monopoly
 public abstract class Card {
 
     public static final int TYPE_CHANCE = 1;
